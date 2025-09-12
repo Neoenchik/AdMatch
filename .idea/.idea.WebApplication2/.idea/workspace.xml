@@ -24,7 +24,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a04a6f9e-a234-47fc-a9a3-cce900c3eaf1" name="Changes" comment="" />
+    <list default="true" id="a04a6f9e-a234-47fc-a9a3-cce900c3eaf1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdMatch.DataAccessInterfaces/Models/AdvertisingPlatform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdMatch.DataAccessInterfaces/Models/AdvertisingPlatform.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdMatch.MicroserviceImpl/Services/AdvertisingService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdMatch.MicroserviceImpl/Services/AdvertisingService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdMatch.Tests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdMatch.Tests/UnitTest1.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +37,9 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../../../Program Files (x86)/NuGet/Config/Microsoft.VisualStudio.FallbackLocation.config" root0="FORCE_HIGHLIGHTING" />
@@ -46,13 +54,18 @@
     <setting file="file://$PROJECT_DIR$/AdMatch.MicroserviceInterfaces/Services/IAdvertisingService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AdMatch.Tests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
   <component name="ProblemsViewState">
+    <option name="proportion" value="0.58161044" />
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="32YcMIk3r0xoRlNxuSdZkGmaqKd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,6 +76,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -77,6 +91,24 @@
     ]
   }
 }</component>
+  <component name="QodanaCloudProjectLink">
+    <option name="lastReportId" value="ww6aM4" />
+    <option name="linkedProjectId" value="1r2Gl" />
+    <option name="linkedProjectName" value="My first project" />
+    <option name="organizationId" value="b8gBb" />
+    <option name="userId" value="k9oO2" />
+  </component>
+  <component name="QodanaHighlightedReportService">
+    <option name="cloudReportPersistedInfo">
+      <CloudReportPersistedInfo>
+        <option name="projectId" value="1r2Gl" />
+        <option name="reportId" value="ww6aM4" />
+      </CloudReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.WebApplication2: IIS Express">
     <configuration name="AdMatch.Application: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/AdMatch.MicroserviceImpl/AdMatch.MicroserviceImpl.csproj" />
@@ -381,6 +413,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -405,10 +438,10 @@
           <line>81</line>
           <properties documentPath="C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\Services\AdvertisingService.cs" containingFunctionPresentation="Method 'SearchPlatformsAsync'">
             <startOffsets>
-              <option value="2693" />
+              <option value="2677" />
             </startOffsets>
             <endOffsets>
-              <option value="2762" />
+              <option value="2746" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />

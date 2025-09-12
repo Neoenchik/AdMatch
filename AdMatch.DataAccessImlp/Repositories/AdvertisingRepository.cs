@@ -27,7 +27,7 @@ public class AdvertisingRepository : IAdvertisingRepository
 
     public List<string> GetPlatformsForLocation(string location)
     {
-        var normalized =  NormalizeLocation(location);
+        var normalized = NormalizeLocation(location);
         
         if(_cache.TryGetValue(normalized, out var cached))
             return cached.ToList();
@@ -38,7 +38,7 @@ public class AdvertisingRepository : IAdvertisingRepository
         foreach (var segment in segments)
         {
             if (!node.Children.TryGetValue(segment, out var child))
-                return new List<string>();
+                return [];
             
             node = child;
             platforms.UnionWith(node.Platforms);
@@ -71,6 +71,6 @@ public class AdvertisingRepository : IAdvertisingRepository
     /// <summary>
     /// Нормализует локацию
     /// </summary>
-    private string NormalizeLocation(string location)
+    private static string NormalizeLocation(string location)
         => location.Trim().ToLowerInvariant();
 }

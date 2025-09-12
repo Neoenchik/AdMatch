@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ie1zRavZjek=",
+  "dgSpecHash": "1x+kkireWFU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.MicroserviceImpl\\AdMatch.MicroserviceImpl.csproj",
+  "projectFilePath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.MicroserviceImpl\\AdMatch.MicroserviceImpl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gvozd\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.0\\microsoft.aspnetcore.http.2.3.0.nupkg.sha512",
     "C:\\Users\\gvozd\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NohkRe+qzT4=",
+  "dgSpecHash": "BiY1YFSIFd4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.Api\\AdMatch.Api.csproj",
+  "projectFilePath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.Api\\AdMatch.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gvozd\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.0\\microsoft.aspnetcore.http.2.3.0.nupkg.sha512",
     "C:\\Users\\gvozd\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
