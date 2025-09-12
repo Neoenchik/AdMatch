@@ -2,6 +2,7 @@
 #        Discover additional configuration options in our documentation         #
 #               https://www.jetbrains.com/help/qodana/github.html               #
 #-------------------------------------------------------------------------------#
+
 name: Qodana
 on:
   workflow_dispatch:
@@ -9,6 +10,7 @@ on:
   push:
     branches:
       - master
+
 jobs:
   qodana:
     runs-on: ubuntu-latest
