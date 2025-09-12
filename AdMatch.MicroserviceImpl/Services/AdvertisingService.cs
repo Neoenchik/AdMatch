@@ -25,7 +25,7 @@ public class AdvertisingService : IAdvertisingService
 
     public async Task LoadPlatformsFromFileAsync(IFormFile file)
     {
-        if (file == null || file.Length == 0)
+        if (file.Length == 0)
         {
             _logger.LogWarning("Попытка загрузить пустой или null файл.");
             throw new ArgumentException("Некорректный файл");
@@ -51,7 +51,7 @@ public class AdvertisingService : IAdvertisingService
                 var name = parts[0].Trim();
                 var locs = parts[1].Split(',', StringSplitOptions.RemoveEmptyEntries)
                     .Select(x => x.Trim())
-                    .Where(x => x.StartsWith("/"))
+                    .Where(x => x.StartsWith('/'))
                     .ToList();
                 
                 if (locs.Count == 0)
@@ -79,7 +79,7 @@ public class AdvertisingService : IAdvertisingService
 
     public Task<List<string>> SearchPlatformsAsync(string location)
     {
-        if (string.IsNullOrWhiteSpace(location) || !location.StartsWith("/"))
+        if (string.IsNullOrWhiteSpace(location) || !location.StartsWith('/'))
         {
             _logger.LogWarning("Некорректный параметр локации: {Location}", location);
             throw new ArgumentException("Некорректная локация");

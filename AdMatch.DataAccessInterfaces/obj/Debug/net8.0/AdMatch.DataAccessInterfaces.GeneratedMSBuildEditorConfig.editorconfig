@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdMatch.DataAccessInterfaces
-build_property.ProjectDir = C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\
+build_property.ProjectDir = C:\Users\gvozd\RiderProjects\AdMatch\AdMatch.DataAccessInterfaces\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

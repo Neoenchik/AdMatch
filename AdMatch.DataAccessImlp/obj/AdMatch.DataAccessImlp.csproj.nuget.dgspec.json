@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj": {}
+    "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj": {
+    "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj",
+        "projectUniqueName": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj",
         "projectName": "AdMatch.DataAccessImlp",
-        "projectPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj",
+        "projectPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj",
         "packagesPath": "C:\\Users\\gvozd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessImlp\\obj\\",
+        "outputPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessImlp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj": {
-                "projectPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj"
+              "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj": {
+                "projectPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj": {
+    "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj",
+        "projectUniqueName": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj",
         "projectName": "AdMatch.DataAccessInterfaces",
-        "projectPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj",
+        "projectPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessInterfaces\\AdMatch.DataAccessInterfaces.csproj",
         "packagesPath": "C:\\Users\\gvozd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessInterfaces\\obj\\",
+        "outputPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessInterfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
