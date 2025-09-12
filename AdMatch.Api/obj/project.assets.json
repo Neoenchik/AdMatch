@@ -1221,11 +1221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.Api\\AdMatch.Api.csproj",
+      "projectUniqueName": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.Api\\AdMatch.Api.csproj",
       "projectName": "AdMatch.Api",
-      "projectPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.Api\\AdMatch.Api.csproj",
+      "projectPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.Api\\AdMatch.Api.csproj",
       "packagesPath": "C:\\Users\\gvozd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.Api\\obj\\",
+      "outputPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1247,14 +1247,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj": {
-              "projectPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj"
+            "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj": {
+              "projectPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.DataAccessImlp\\AdMatch.DataAccessImlp.csproj"
             },
-            "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.MicroserviceImpl\\AdMatch.MicroserviceImpl.csproj": {
-              "projectPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.MicroserviceImpl\\AdMatch.MicroserviceImpl.csproj"
+            "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.MicroserviceImpl\\AdMatch.MicroserviceImpl.csproj": {
+              "projectPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.MicroserviceImpl\\AdMatch.MicroserviceImpl.csproj"
             },
-            "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.MicroserviceInterfaces\\AdMatch.MicroserviceInterfaces.csproj": {
-              "projectPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.MicroserviceInterfaces\\AdMatch.MicroserviceInterfaces.csproj"
+            "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.MicroserviceInterfaces\\AdMatch.MicroserviceInterfaces.csproj": {
+              "projectPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.MicroserviceInterfaces\\AdMatch.MicroserviceInterfaces.csproj"
             }
           }
         }

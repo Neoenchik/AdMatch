@@ -1,6 +1,13 @@
 version: "1.0"
-linter: jetbrains/qodana-dotnet:2025.1
 profile:
-  name: qodana.recommended
+  name: qodana.starter
 include:
-  - name: CheckDependencyLicenses
+  - name: ConvertToConstant.Local
+  - name: MemberCanBeMadeStatic.Local
+  - name: PropertyCanBeMadeInitOnly.Global
+  - name: RedundantExplicitParamsArrayCreation
+  - name: CA1861
+  - name: CA1866
+  - name: CA1865
+  - name: CA1822
+  - name: UseCollectionExpression

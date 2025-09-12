@@ -449,11 +449,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.MicroserviceInterfaces\\AdMatch.MicroserviceInterfaces.csproj",
+      "projectUniqueName": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.MicroserviceInterfaces\\AdMatch.MicroserviceInterfaces.csproj",
       "projectName": "AdMatch.MicroserviceInterfaces",
-      "projectPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.MicroserviceInterfaces\\AdMatch.MicroserviceInterfaces.csproj",
+      "projectPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.MicroserviceInterfaces\\AdMatch.MicroserviceInterfaces.csproj",
       "packagesPath": "C:\\Users\\gvozd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gvozd\\RiderProjects\\WebApplication2\\AdMatch.MicroserviceInterfaces\\obj\\",
+      "outputPath": "C:\\Users\\gvozd\\RiderProjects\\AdMatch\\AdMatch.MicroserviceInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

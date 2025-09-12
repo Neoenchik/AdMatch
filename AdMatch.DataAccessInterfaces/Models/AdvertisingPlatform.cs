@@ -5,6 +5,13 @@ namespace AdMatch.DataAccessInterfaces.Models;
 /// </summary>
 public class AdvertisingPlatform
 {
-    public string Name { get; set; }
-    public List<string> Locations { get; set; }
+    /// <summary>
+    /// Имя рекламной площадки (обязательное).
+    /// </summary>
+    public required string Name { get; init; }
+    
+    /// <summary>
+    /// Список локаций, в которых действует площадка (обязательный).
+    /// </summary>
+    public required List<string> Locations { get; init; }
 }
