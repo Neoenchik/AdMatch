@@ -1,0 +1,47 @@
+openapi: 3.0.0
+info:
+  title: Advertising Platforms API
+  version: 1.0.0
+  description: API for managing advertising platforms by locations.
+paths:
+  /api/advertising/load:
+    post:
+      summary: Load advertising platforms from file
+      operationId: LoadPlatforms
+      requestBody:
+        required: true
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                file:
+                  type: string
+                  format: binary
+      responses:
+        '200':
+          description: Success
+        '400':
+          description: Bad Request (invalid file)
+  /api/advertising/search:
+    get:
+      summary: Search platforms for a location
+      operationId: SearchPlatforms
+      parameters:
+        - name: location
+          in: query
+          required: true
+          schema:
+            type: string
+          description: Location path, e.g., /ru/svrd/revda
+      responses:
+        '200':
+          description: List of platforms
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+        '400':
+          description: Bad Request (invalid location)

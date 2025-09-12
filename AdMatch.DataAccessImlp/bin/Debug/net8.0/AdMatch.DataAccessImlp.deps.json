@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdMatch.DataAccessImlp/1.0.0": {
+        "dependencies": {
+          "AdMatch.DataAccessInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "AdMatch.DataAccessImlp.dll": {}
+        }
+      },
+      "AdMatch.DataAccessInterfaces/1.0.0": {
+        "runtime": {
+          "AdMatch.DataAccessInterfaces.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdMatch.DataAccessImlp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdMatch.DataAccessInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\bin\Debug\net8.0\AdMatch.MicroserviceInterfaces.deps.json
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\bin\Debug\net8.0\AdMatch.MicroserviceInterfaces.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\bin\Debug\net8.0\AdMatch.MicroserviceInterfaces.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\obj\Debug\net8.0\AdMatch.MicroserviceInterfaces.csproj.AssemblyReference.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\obj\Debug\net8.0\AdMatch.MicroserviceInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\obj\Debug\net8.0\AdMatch.MicroserviceInterfaces.AssemblyInfoInputs.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\obj\Debug\net8.0\AdMatch.MicroserviceInterfaces.AssemblyInfo.cs
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\obj\Debug\net8.0\AdMatch.MicroserviceInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\obj\Debug\net8.0\AdMatch.MicroserviceInterfaces.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\obj\Debug\net8.0\refint\AdMatch.MicroserviceInterfaces.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\obj\Debug\net8.0\AdMatch.MicroserviceInterfaces.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceInterfaces\obj\Debug\net8.0\ref\AdMatch.MicroserviceInterfaces.dll

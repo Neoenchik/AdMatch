@@ -1,0 +1,15 @@
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\bin\Debug\net8.0\AdMatch.DataAccessImlp.deps.json
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\bin\Debug\net8.0\AdMatch.DataAccessImlp.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\bin\Debug\net8.0\AdMatch.DataAccessImlp.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\bin\Debug\net8.0\AdMatch.DataAccessInterfaces.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\bin\Debug\net8.0\AdMatch.DataAccessInterfaces.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\AdMatch.DataAccessImlp.csproj.AssemblyReference.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\AdMatch.DataAccessImlp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\AdMatch.DataAccessImlp.AssemblyInfoInputs.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\AdMatch.DataAccessImlp.AssemblyInfo.cs
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\AdMatch.DataAccessImlp.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\AdMatch..0AD61F46.Up2Date
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\AdMatch.DataAccessImlp.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\refint\AdMatch.DataAccessImlp.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\AdMatch.DataAccessImlp.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessImlp\obj\Debug\net8.0\ref\AdMatch.DataAccessImlp.dll

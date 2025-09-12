@@ -1,0 +1,17 @@
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\bin\Debug\net8.0\AdMatch.MicroserviceImpl.deps.json
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\bin\Debug\net8.0\AdMatch.MicroserviceImpl.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\bin\Debug\net8.0\AdMatch.MicroserviceImpl.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\bin\Debug\net8.0\AdMatch.DataAccessInterfaces.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\bin\Debug\net8.0\AdMatch.MicroserviceInterfaces.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\bin\Debug\net8.0\AdMatch.DataAccessInterfaces.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\bin\Debug\net8.0\AdMatch.MicroserviceInterfaces.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\AdMatch.MicroserviceImpl.csproj.AssemblyReference.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\AdMatch.MicroserviceImpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\AdMatch.MicroserviceImpl.AssemblyInfoInputs.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\AdMatch.MicroserviceImpl.AssemblyInfo.cs
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\AdMatch.MicroserviceImpl.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\AdMatch..E1180AA9.Up2Date
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\AdMatch.MicroserviceImpl.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\refint\AdMatch.MicroserviceImpl.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\AdMatch.MicroserviceImpl.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.MicroserviceImpl\obj\Debug\net8.0\ref\AdMatch.MicroserviceImpl.dll

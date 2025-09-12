@@ -1,0 +1,11 @@
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\bin\Debug\net8.0\AdMatch.DataAccessInterfaces.deps.json
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\bin\Debug\net8.0\AdMatch.DataAccessInterfaces.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\bin\Debug\net8.0\AdMatch.DataAccessInterfaces.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\obj\Debug\net8.0\AdMatch.DataAccessInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\obj\Debug\net8.0\AdMatch.DataAccessInterfaces.AssemblyInfoInputs.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\obj\Debug\net8.0\AdMatch.DataAccessInterfaces.AssemblyInfo.cs
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\obj\Debug\net8.0\AdMatch.DataAccessInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\obj\Debug\net8.0\AdMatch.DataAccessInterfaces.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\obj\Debug\net8.0\refint\AdMatch.DataAccessInterfaces.dll
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\obj\Debug\net8.0\AdMatch.DataAccessInterfaces.pdb
+C:\Users\gvozd\RiderProjects\WebApplication2\AdMatch.DataAccessInterfaces\obj\Debug\net8.0\ref\AdMatch.DataAccessInterfaces.dll
