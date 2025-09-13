@@ -1,12 +1,11 @@
 # BCS.EFS.AdvertisingPlatformsService
 
 ## Запуск
-1. Клонируй репозиторий.
-2. Открой в Visual Studio 2022+ (.NET 8).
-3. Сгенерируй контроллеры: запусти .sh скрипты в MicroserviceInterfaces (нужен NSwag).
-4. Установи пакеты: NuGet restore.
-5. Запусти BCS.EFS.AdvertisingPlatformsService (IIS Express или dotnet run).
-6. Swagger: https://localhost:<port>/swagger
+1. Клонируйте репозиторий.
+2. Откройте в Rider (.NET 8).
+3. Запустите AdMatch.Api (IIS Express/https/http или dotnet run).
+4. По необходимости установить SSL сертификаты .NET, которые предложит Rider 
+5. Swagger: https://localhost:<port>/swagger
 
 ## Endpoints
 - POST /api/advertising/load — загрузка файла (multipart/form-data).
